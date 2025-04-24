@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Enthusiast | Innovator in the Making | Future Tech Trailblazer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=codingguru2221&label=Profile%20views&color=0e75b6&style=flat" alt="codingguru2221" /> 
+  <img src="https://komarev.com/ghpvc/?username=TheCOdexOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="TheCOdexOfficial" /> 
 </p>
 
 ### 🚀 About Me
@@ -80,5 +80,5 @@ Curated learning paths and tools focused on practical cybersecurity skills.
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/codingguru2221/count.svg?" alt="Profile Views Counter" />
+  <img src="https://profile-counter.glitch.me/TheCOdexOfficial/count.svg?" alt="Profile Views Counter" />
 </div>
