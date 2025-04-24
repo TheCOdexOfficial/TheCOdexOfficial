@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=TheCOdexOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="TheCOdexOfficial" /> 
 </p>
 
+> 🔁 **Note:** I have two GitHub profiles.  
+> 🧠 This is my **secondary profile**: `TheCOdexOfficial`  
+> 💼 My **primary profile** is [`codingguru2221`](https://github.com/codingguru2221)
+
+---
+
 ### 🚀 About Me
 
 - 🌟 2nd Year Engineering Student  
@@ -35,16 +41,16 @@
 
 <h3 align="left">🌟 Featured Projects & Challenges</h3>
 
-### 📦 Inventory Management System
+### 📦 Inventory Management System  
 A simple desktop-based system to manage stock, suppliers, and product details.  
 Tech Stack: Python | SQLite | Tkinter  
 🔗 [View Repository](https://github.com/codingguru2221/Inventory-management-system)
 
-### 💻 30 Days Coding Challenge
+### 💻 30 Days Coding Challenge  
 A structured journey to enhance coding skills with daily tasks and problems.  
 🔗 [View Repository](https://github.com/codingguru2221/30-days-coding-Challenge)
 
-### 🛡️ Cybersecurity Resources
+### 🛡️ Cybersecurity Resources  
 Curated learning paths and tools focused on practical cybersecurity skills.  
 🔗 [View Repository](https://github.com/codingguru2221/CyberSecurity)
 
