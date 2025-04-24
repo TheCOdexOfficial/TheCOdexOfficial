@@ -40,18 +40,13 @@ A simple desktop-based system to manage stock, suppliers, and product details.
 Tech Stack: Python | SQLite | Tkinter  
 🔗 [View Repository](https://github.com/codingguru2221/Inventory-management-system)
 
-
 ### 💻 30 Days Coding Challenge
 A structured journey to enhance coding skills with daily tasks and problems.  
 🔗 [View Repository](https://github.com/codingguru2221/30-days-coding-Challenge)
 
-
-
 ### 🛡️ Cybersecurity Resources
 Curated learning paths and tools focused on practical cybersecurity skills.  
 🔗 [View Repository](https://github.com/codingguru2221/CyberSecurity)
-
-
 
 🚧 _More exciting projects are on the way... stay tuned!_
 
@@ -59,9 +54,9 @@ Curated learning paths and tools focused on practical cybersecurity skills.
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingguru2221&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingguru2221&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingguru2221&theme=dracula&hide_border=false" height="150" alt="Streak Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCOdexOfficial&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TheCOdexOfficial&theme=default&hide_border=false" height="150" alt="Streak Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCOdexOfficial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"  />
 </div>
 
 ---
